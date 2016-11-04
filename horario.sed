@@ -1,11 +1,12 @@
 #!/bin/sed -rf
 
 #-----------------------------------------------------------------------------------------------------------
-# Data: 4 de Novembro de 2016
+# Data:       4 de Novembro de 2016
 # Criado por: Juliano Santos [SHAMAN]
-# Script: horario.sed
-# Descrição: Script que demonstra o desvio de fluxo durante aplicação de filtros com expressões regulares.
-#            Imprime uma mensagem de comprimento referente ao horário informado pelo usuário.
+# Script:     horario.sed
+# Página:     https://www.facebook.com/shellscriptx
+# Descrição:  Script que demonstra o desvio de fluxo durante aplicação de filtros com expressões regulares.
+#             Imprime uma mensagem de comprimento referente ao horário informado pelo usuário.
 #-----------------------------------------------------------------------------------------------------------
 
 # 1º Padrão (Parte da manhã)
